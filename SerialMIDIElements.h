@@ -12,6 +12,8 @@
 #ifndef MIDIElements_H
 #define MIDIElements_H
 
+#define INPUT_PULLUP 1 // Enable Pullups on Inputpins
+
 //-----------------------------------------------------------------------------------
 #include "Button.h"
 #include "Potentiometer.h"
